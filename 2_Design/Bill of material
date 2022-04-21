@@ -1,0 +1,21 @@
+Circuit: new.simu
+
+Bill of Materials:
+
+Hd44780-4 : Hd44780   
+
+Image-3 : Image   
+
+Led-5 : Led   
+
+Led-6 : Led   
+
+RelaySPST-1 : RelaySPST   
+
+SR04-2 : SR04   
+
+Servo-12 : Servo   
+
+Servo-13 : Servo   
+
+atmega328-14 : atmega328 
